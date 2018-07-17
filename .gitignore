@@ -1,0 +1,45 @@
+.idea
+ 
+# игнорировать все файлы в каталоге build/
+#/build/
+
+# игнорировать только файл TODO находящийся в корневом каталоге, не относится к файлам вида subdir/TODO
+/TODO
+
+# игнорировать файлы и папки находящиеся в node_modules/
+node_modules/
+npm-debug.log
+assets__Uber/
+ 
+*~
+*.txt
+ 
+# Игнорировать картинки
+src/images/*.*
+/src/images/*.*
+ 
+## Windows template
+### Windows image file cashes
+ 
+Thumbs.db
+ehthumbs.db
+ 
+### Folder config file
+ 
+desktop.ini
+ 
+###Recycle bin
+recycle.bin/
+ 
+ 
+###Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+ 
+### Text file for comment
+
+ 
+ 
+ 
