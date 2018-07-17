@@ -6,10 +6,13 @@ html {
 h1, h2 {
     font-size: 2.2rem;
     line-height: 3.4rem;
+    margin: 0;
+    padding: 2rem;
 }
 
 .header, .nav {
     background-color: #FD739C;
     color: #fff;
 }
+
 
