@@ -3524,3 +3524,7 @@ ol {
 .button__text--uppercase {
   text-transform: uppercase;
 }
+
+.button-stores, .button-restaurant {
+  border: 1px solid #000;
+}
